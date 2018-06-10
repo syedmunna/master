@@ -1,9 +1,5 @@
 i am chaning this file to test merge conflicts
 commit1
-<<<<<<< HEAD
 commit2
 commit3
 commit4
-=======
-commit2
->>>>>>> parent of 32dbdc1... commit3
