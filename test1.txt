@@ -1,3 +1,4 @@
 i am chaning this file to test merge conflicts
 commit1
 commit2
+commit3
